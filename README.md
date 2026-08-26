@@ -138,8 +138,8 @@ balance, selected label, inventory — without that data leaking into the state 
 ## ▶️ Run it
 
 ```bash
-git clone https://github.com/prakashshuklahub/Vending-Maching-LLD.git
-cd Vending-Maching-LLD
+git clone https://github.com/prakashshuklahub/Vending-Machine-LLD.git
+cd Vending-Machine-LLD
 javac -d out $(find src -name '*.java')
 java -cp out app.VendingMachineApplication
 ```
